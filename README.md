@@ -17,6 +17,9 @@ This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline 
    - Configured the sink as Azure Data Lake Storage Gen2.
    - Connected all 5 tables and validated the pipeline execution.
    - Verified if tables were correctly stored in Azure Data Lake Gen2.
+  
+     <img width="640" alt="image" src="https://github.com/user-attachments/assets/bafc5384-61fc-4eeb-bf08-a7e276c624b2" />
+
 
 3. Azure Databricks for Data Transformation
    - Created a Databricks Compute cluster.
